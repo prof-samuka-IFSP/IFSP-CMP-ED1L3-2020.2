@@ -2,7 +2,7 @@
 
 Este repositório contém todos os códigos desenvolvimentos em sala de aula do curso de **Estruturas de Dados I (ED1L3)**, turma do 2o semestre de 2020, do IFSP Campinas.
 
-**Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://github.com/hisamuka)
+**Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://github.com/hisamuka)  
 **Professor:** Everton Silva
 
 ### Aulas
