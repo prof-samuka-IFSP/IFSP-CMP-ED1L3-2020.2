@@ -33,6 +33,7 @@ void addFirstLinkedList(LinkedList *L, int elem) {
     // nó de `p` será NULL (não está apontando pra nada)
     p->next = L->first;
     L->first = p;  // o início da lista agora aponta para o novo nó `p`
+    L->size++; // incrementa o número de elementos da lista (tamanho da lista)
 }
 
 
