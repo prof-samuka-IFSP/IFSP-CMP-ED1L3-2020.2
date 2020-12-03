@@ -3,7 +3,7 @@
 
 // definições das structs
 
-// definimos um nó de inteiros
+// definicao um nó de inteiros
 typedef struct _node {
     int elem;
     struct _node *next;
