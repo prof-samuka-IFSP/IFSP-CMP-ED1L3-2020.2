@@ -25,6 +25,14 @@ Node *createNode(int elem);
 // cria/aloca uma lista ligada ("construtor da lista") vazia
 LinkedList *createLinkedList();
 
+
+/**
+ * Recebe a referência (endereço) da variável da Lista Ligada,
+ * desaloca toda a lista, e seta o conteúdo desta referência para NULL
+ */
+void destroyLinkedList(LinkedList **L_ref);
+
+
 /**
  * Checa se a lista L está vazia.
  * OBS: considera que L é uma lista válida (diferente de NULL) 

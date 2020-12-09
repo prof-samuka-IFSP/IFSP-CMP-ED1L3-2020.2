@@ -20,6 +20,27 @@ LinkedList *createLinkedList() {
     return L;
 }
 
+
+void destroyLinkedList(LinkedList **L_ref) {
+    LinkedList *LL = *L_ref;
+    
+    // se a lista não está vazia,
+    // destrua todos os nós
+    if (!isEmptyLinkedList(LL)) {
+        Node *p = LL->first;
+
+        while (p != NULL) {
+            Node *q = p;
+            p = p->next;
+            free(q);
+        }
+    }
+
+    free(LL);
+    *L_ref = NULL;
+}
+
+
 // 0 == false
 // 1 == true
 int isEmptyLinkedList(const LinkedList *L) {

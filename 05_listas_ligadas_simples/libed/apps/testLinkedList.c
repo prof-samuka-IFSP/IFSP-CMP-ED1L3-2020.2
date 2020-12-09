@@ -34,5 +34,8 @@ int main() {
     removeFirstLinkedList(L);
     printLinkedList(L);
 
+    printf("\nDestruindo/Desalocando a lista\n");
+    destroyLinkedList(&L);
+
     return 0;
 }
