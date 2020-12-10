@@ -11,6 +11,7 @@ Este repositório contém todos os códigos desenvolvimentos em sala de aula do 
 3. [Matrizes e Structs](https://github.com/xavecoding/IFSP-CMP-ED1L3-2020.2/tree/master/03_matrizes_e_structs)
 4. [Tipo Abstrato de Dados e Listas Ligadas Simples (Parte 1)](https://github.com/xavecoding/IFSP-CMP-ED1L3-2020.2/tree/master/04_tad_e_listas_ligadas_simples)
 5. [Listas Ligadas Simples (Parte 2)](https://github.com/xavecoding/IFSP-CMP-ED1L3-2020.2/tree/master/05_listas_ligadas_simples)
+6. [Listas Duplamente Encadeadas](https://github.com/xavecoding/IFSP-CMP-ED1L3-2020.2/tree/master/06_listas_duplamente_encadeadas/libed)
 
 ### Códigos base - Laboratórios
 1. [Lab 02 - Joel Santana's English School](https://github.com/xavecoding/IFSP-CMP-ED1L3-2020.2/blob/master/codigos_base_laboratorios/lab02_joel_santana.c)
